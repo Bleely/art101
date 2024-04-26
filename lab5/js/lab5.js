@@ -4,6 +4,7 @@
  */ 
 
 // Define variables
+let ownIt = false;
 make = "ford";
 model = "taurus";
 color = "rusty";
